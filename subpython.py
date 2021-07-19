@@ -22,7 +22,7 @@ def banner():
     print('By Techsoftmedia')
     print('---------------------')
     print('')
-    print('Get all the subdoamins')
+    print('Get all the subdomains')
     time.sleep(1)
 
 
