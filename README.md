@@ -16,6 +16,7 @@ python3 subpython.py -h
 ```
 
 [Enter the domain after copy]
+
 python3 subpython.py -d domainname
 ```sh
 python3 subpython.py -d
